@@ -9,3 +9,7 @@ ng g component pages/product-list
 create folder models
 file! products.model.ts
 
+services
+ng g service services/cart
+
+
