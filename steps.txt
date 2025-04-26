@@ -1,0 +1,7 @@
+ng new angular-ecommerce-app --inline-style --inline-template --skip-tests
+ng generate component components/name-component
+ng dev
+
+install tailwind
+npm install tailwindcss @tailwindcss/postcss postcss --force
+
